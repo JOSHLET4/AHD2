@@ -1,0 +1,29 @@
+section {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+section h2 {
+    text-align: left;
+    font-size: 80px;
+}
+
+section img {
+    width: 40%;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: white 5px 10px 10px 0px;
+}
+
+hr {
+    margin-top: 60px;
+    width: 80%;
+    border-radius: 10%;
+}
